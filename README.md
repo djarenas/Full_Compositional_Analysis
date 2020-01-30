@@ -9,6 +9,7 @@ Example input data files are provided (pS6_All_idiopathic.csv and pS6_Sentinel.c
 Future versions of the software will offer different options for input file formats.
 
 Academic work that used this software:
+
 Fajgenbaum, David C., et al. "Identifying and targeting pathogenic PI3K/AKT/mTOR signaling in IL-6 blockade–refractory idiopathic multicentric Castleman disease." The Journal of clinical investigation 129.10 (2019): 4451-4463.
 
 Arenas, Daniel, et al. "Increased mTOR activation in idiopathic multicentric Castleman disease." Clinical Lymphoma Myeloma and Leukemia 19.10 (2019): e306.
